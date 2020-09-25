@@ -1,0 +1,64 @@
+body {
+    background-color: #dfdeb3;
+}
+
+header {
+    background-color: #4d4d4d;
+    padding: 30px 0px;
+    
+}
+
+.menu {
+    background-color: #4d4d4d;
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 28px;
+    
+    
+}
+
+p {
+    position: absolute;
+    padding: 10px;
+    font-weight: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+    font-weight: 28px;
+    font-style: italic;
+}
+
+
+nav {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    margin: 0 2%;
+
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+
+.filmes {
+    background-color: yellow;
+    
+    border-radius: 2px;
+}
+
+.series {
+     background-color: yellow;
+}
+
+.contato {
+    background-color: yellow;
+}
+.sobre {
+    background-color: yellow;
+}
+
+
